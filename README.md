@@ -1,4 +1,4 @@
-# practice-repo
+c# practice-repo
 This is my first Git Repository.
 <br>
-Author-Shivangi Patel.
+Author-Shivangi Trajiya.
